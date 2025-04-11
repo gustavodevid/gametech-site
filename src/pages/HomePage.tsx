@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import { GamepadIcon, HardDrive, CreditCard, ShoppingBag, MapPin, Phone, Mail, Star, UsbIcon, Laptop2Icon, Laptop, PcCase, ComputerIcon } from "lucide-react"
+import { GamepadIcon, HardDrive, CreditCard, ShoppingBag, MapPin, Phone, Mail, Star, UsbIcon, Laptop, ComputerIcon } from "lucide-react"
 import { Button } from "../components/Button"
 import { Card, CardContent } from "../components/Card"
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "../components/Tabs"
